@@ -4,8 +4,8 @@ The program terminates when 0 or EOF is entered.
 
 -A vector is entered by entering an integer indicating its number
 of items, followed by at least one space (and possibly more whitespace),
-followed by the actual items, followed by <enter>. Vector items are
-separated by whitespace (possibly including <enter>).
+followed by the actual items, followed by 'enter'. Vector items are
+separated by whitespace (possibly including 'enter').
 e.g., the following 2 lines show how the user could input vectors
 
 [ 3.4, 24.8, 8.0, -6, 22 ] and [ 99, 107 ]:
