@@ -9,8 +9,8 @@ separated by whitespace (possibly including <enter>).
 e.g., the following 2 lines show how the user could input vectors
 
 [ 3.4, 24.8, 8.0, -6, 22 ] and [ 99, 107 ]:
-5 3.4 24.8 8.0 -6 22
-2 +99 107
+<br />5 3.4 24.8 8.0 -6 22
+<br />2 +99 107
 
 -Note that a vector may be split over multiple lines. e.g., a user might
 enter vector [33.4, -6, -2, 6] as follows:
