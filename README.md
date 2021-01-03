@@ -16,5 +16,5 @@ e.g., the following 2 lines show how the user could input vectors
 enter vector [33.4, -6, -2, 6] as follows:
  
 4 33.4
--6
--2 6
+<br />-6
+<br />-2 6
